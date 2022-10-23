@@ -1,6 +1,3 @@
-
-remote_theme: pages-themes/time-machine@v0.2.0
-
 # A-Brief-History-of-Time
 My Data Science Journey
 
@@ -11,6 +8,3 @@ Certainly it is a great feeling to see your work and be proud of what you have a
 In that regard, what you will find within this repository won't necessarily be only projects I have found success in but also those that did not find the outcome I had started out to find. 
 
 In those less than ideal projects, I will show my journey and if I had to shift gears or change my expectations I will do my best to highlight where I may have gone wrong as well as show where I found a different definition of success. 
-
-
-
